@@ -1,9 +1,15 @@
 ## Hi there, I'm Krishna Vamsi Guntupalli 👋
 
+###### I am currently looking for Internship, Co-Op opportunities starting Winter2021 and Full-time opportunities starting Summer2021. <br/>
+
+<br />
+<br />
+----
+
 ### About me: <br/>
 
-👨🏼‍💻 I am a detail-oriented, responsible, and committed Engineer, with a get-it-done, and high quality product spirit<br>
-🎓 Data Science Graduate Student [Indiana University Bloomington](https://cs.indiana.edu/)<br>
+👨🏼‍💻 I am a detail-oriented, responsible, and committed Engineer, with a get-it-done and high quality product spirit<br>
+🎓 Data Science Graduate Student at [Indiana University Bloomington](https://cs.indiana.edu/)<br>
 👨‍💼 Worked as Asst. Systems Engineer for 1.5 years at Tata Consultancy Services <br>
 🌱 I’m currently learning everything 🤣 <br>
 👯 I’m looking to collaborate with other programmers <br>
@@ -27,6 +33,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][reference]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][reference]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][reference]
+[<img align="left" alt="AWS" width="35px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/aws/aws.png" />][reference]
 [<img align="left" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][reference]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][reference]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reference]
@@ -37,6 +44,10 @@
 
 <br />
 <br />
+
+---
+
+<img align ="center" alt= "Krishna Vamsi's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=GKrishnaVamsi&show_icons=true&theme=dark" />
 
 ---
 
