@@ -1,7 +1,7 @@
 ### Hi there, I'm Krishna Vamsi Guntupalli 👋
 
 **About me.** <br/>
-👨🏼‍💻 I am a detail-oriented, responsible, and committed Engineer, with a get-it-done, on-time and high quality product spirit.
+👨🏼‍💻 I am a detail-oriented, responsible, and committed Engineer, with a get-it-done, on-time and high quality product spirit<br>
 🎓 Data Science Graduate Student [Indiana University Bloomington](https://cs.indiana.edu/)<br>
 👨‍💼 Worked as Asst. Systems Engineer for 1.5 years at Tata Consultancy Services <br>
 🌱 I’m currently learning everything 🤣 <br>
@@ -33,7 +33,6 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][reference]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][reference]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][reference]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][reference]
 
 <br />
 <br />
