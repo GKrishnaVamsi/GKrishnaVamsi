@@ -1,6 +1,7 @@
 ### Hi there, I'm Krishna Vamsi Guntupalli 👋
 
-**About me.** <br/>
+#### About me: <br/>
+
 👨🏼‍💻 I am a detail-oriented, responsible, and committed Engineer, with a get-it-done, and high quality product spirit<br>
 🎓 Data Science Graduate Student [Indiana University Bloomington](https://cs.indiana.edu/)<br>
 👨‍💼 Worked as Asst. Systems Engineer for 1.5 years at Tata Consultancy Services <br>
