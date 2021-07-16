@@ -2,10 +2,6 @@
 
 ###### I am currently looking for Internship, Co-Op opportunities starting Winter2021 and Full-time opportunities starting Summer2021. <br/>
 
-<br />
-<br />
-----
-
 ### About me: <br/>
 
 👨🏼‍💻 I am a detail-oriented, responsible, and committed Engineer, with a get-it-done and high quality product spirit<br>
