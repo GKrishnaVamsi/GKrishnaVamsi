@@ -5,7 +5,7 @@
 ### About me: <br/>
 
 👨🏼‍💻 I am a detail-oriented, responsible, and committed Engineer, with a get-it-done and high quality product spirit<br>
-🎓 Data Science Graduate Student at [Indiana University Bloomington](https://cs.indiana.edu/)<br>
+🎓 Data Science Graduate Student at [Indiana University Bloomington](https://datascience.indiana.edu/index.html)<br>
 👨‍💼 Worked as Asst. Systems Engineer for 1.5 years at Tata Consultancy Services <br>
 🌱 I’m currently learning everything 🤣 <br>
 👯 I’m looking to collaborate with other programmers <br>
