@@ -47,7 +47,7 @@
 
 ---
 
-[website]: https://codeSTACKr.com
+[website]: https://gkrishnavamsi.github.io/GKrishnaVamsi-portfolio/
 [instagram]: https://www.instagram.com/mr.guntupalli/
 [linkedin]: https://www.linkedin.com/in/krishnavamsiguntupalli/
 [reference]: https://github.com/GKrishnaVamsi
