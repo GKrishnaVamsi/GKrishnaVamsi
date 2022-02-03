@@ -1,6 +1,6 @@
 ## Hi there, I'm Krishna Vamsi Guntupalli 👋
 
-###### I am currently looking for Internship, Co-Op opportunities starting Winter2021 and Full-time opportunities starting Summer2021. <br/>
+###### I am currently looking for Internship, Co-Op opportunities, Full-time opportunities starting Summer2021. <br/>
 
 ### About me: <br/>
 
